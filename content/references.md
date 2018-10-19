@@ -1,14 +1,14 @@
 ---
-pagetitle: 'References - Daniel S. Marshall'
-author: 'Daniel S. Marshall'
-date: 2017-01-01
+pagetitle: 'References - Jihyun Lee'
+author: 'Jihyun Lee'
+date: 2018-10-19
 ---
 
-# Daniel S. Marshall
+# Jihyun Lee
 ## Your Info {.heading .hide}
 Oakville, Ontario\
 905 849 0586\
-daniel.marshall@gmail.com\
+jhl7785@gmail.com
 
 ## Professional References {.divider}
 
